@@ -28,6 +28,7 @@
     },
     "devDependencies": {
         "grunt": "~0.4.1",
+        "phantomjs": "1.9.11",
         "jasmine-ajax": "2.99.0",
         "grunt-replace": "0.8.0",
         "grunt-contrib-concat": "~0.3.0",
